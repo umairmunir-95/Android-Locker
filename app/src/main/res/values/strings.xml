@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shoe App</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="view">View</string>
+    <string name="gotosettings">GOTO SETTINGS</string>
+    <string name="needpermission">Need Permissions</string>
+    <string name="permissionmessage">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="cancel">Cancel</string>
+    <string name="scanning">Scanning...</string>
+    <string name="gallery">Gallery</string>
+    <string name="invalid_barcode">Invalid Barcode.</string>
+    <string name="image_name">Image Name</string>
+    <string name="share">Share</string>
+    <string name="share_image">Share Image</string>
+    <string name="preview_image">Preview Image</string>
+    <string name="app">app_</string>
+    <string name="files">files</string>
+</resources>
